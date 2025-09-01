@@ -6,7 +6,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit a56x device.mk
-$(call inherit-product, device/samsung/a55x/device.mk)
+$(call inherit-product, device/samsung/a56x/device.mk)
 
 # Product Name
 PRODUCT_RELEASE_NAME := a56x
