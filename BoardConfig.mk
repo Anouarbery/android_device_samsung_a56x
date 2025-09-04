@@ -108,7 +108,6 @@ BOARD_SUPER_PARTITION_GROUPS := samsung_dynamic_partitions
 BOARD_SAMSUNG_DYNAMIC_PARTITIONS_PARTITION_LIST := \
     system \
     product \
-    system_dlkm \
     odm \
     system_ext \
     vendor \
